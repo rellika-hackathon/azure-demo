@@ -1,0 +1,4 @@
+{
+	"appService.defaultWebAppToDeploy": "/subscriptions/4e832403-cfb6-43f7-b0e0-b31a14ac90c4/microsoft.web/sites/subscriptions/4e832403-cfb6-43f7-b0e0-b31a14ac90c4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/rrellika",
+	"appService.deploySubpath": "."
+}
